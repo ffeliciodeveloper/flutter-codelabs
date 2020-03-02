@@ -1,6 +1,6 @@
-# flutter_dev
+# Codelabs Study
 
-author: Cezary Żelisko
+author: Fernando
 
 ## About
 The repository contains a workspace adapted to the development of applications using the Flutter framework. The workspace with all necessary dependencies is organized in a Docker container.
